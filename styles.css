@@ -1,0 +1,30 @@
+html{
+    background-color: grey;
+}
+.container{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px;
+}
+.btn{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px;
+     background-color: grey;
+     margin-top: 20px;
+     font-family: 'Poppins', sans-serif;
+     font-size: 20px;
+     font-weight: 800;
+}
